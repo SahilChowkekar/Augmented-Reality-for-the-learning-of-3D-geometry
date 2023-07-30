@@ -103,3 +103,7 @@ The application is tested on both an Android emulator and a physical device. Use
 
 ## 11. Conclusion
 The application Learn Geometry with AR utilizes Augmented Reality to improve the learning experience of 3D Geometry for school students. By providing an interactive and visual representation of 3D shapes, it aims to enhance spatial reasoning and understanding. Further research and assessment of learning effectiveness are recommended for future improvements.
+
+
+## Application
+Download the app from the releases page: [ARGeometry.apk](https://github.com/SahilChowkekar/Augmented-Reality-for-the-learning-of-3D-geometry/releases)
